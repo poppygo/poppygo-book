@@ -1,6 +1,6 @@
 {
-  "name": "PoppyGo Book",
-  "short_name": "PoppyGo Book",
+  "name": "Documentation",
+  "short_name": "Documentation",
   "start_url": "/poppygo-book/",
   "scope": "/poppygo-book/",
   "display": "standalone",
